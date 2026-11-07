@@ -5,7 +5,9 @@ This is the frontend of the School Clinic Management System, built using **React
 ### Key Features
 
 • Automatic Login Persistence: Keeps users logged in when they refresh the browser by checking their token, name, and role from local storage on startup.
+
 • Data Modeling: Organized TypeScript types that match the backend API response exactly to prevent broken pages or undefined values.
+
 • Fast Development: Configured with Vite for instant hot-reloading whenever you save code changes.
 
 ### Project Structure
