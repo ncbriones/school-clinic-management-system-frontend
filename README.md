@@ -55,6 +55,7 @@ npm run dev
 ```
 
 After that, open the local link printed in the terminal to see the app in the browser.
+
 **3. Build for production:**
 
 ```
