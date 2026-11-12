@@ -4,6 +4,12 @@
 
 @theme {
   --font-inter: "Inter", sans-serif;
+
+  --color-primary: #1c1c1d;
+  --color-secondary: #2a3f5e;
+  --color-tertiary: #282c32;
+
+  --color-red: #e41e2b;
 }
 
 @utility sidebar {
